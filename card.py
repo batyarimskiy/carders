@@ -55,7 +55,7 @@ def Card():
 
 def batya():
     print("""
-Разработчики: @batyarimskiy,@awequr,@kotan_demon
+Разработчики: @batyarimskiy,@awequr
 Связь через Telegram (TG)
 
 Для выхода в меню нажмите Enter: """)
